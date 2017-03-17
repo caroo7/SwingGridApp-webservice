@@ -3,5 +3,5 @@ SwingGridApp-webservice: Registration web service implementation. Interface for 
 How to run:
 - 'mvn clean install' - it executes maven build, run tests and package application to ZIP file - swing.grid.app-webservice-1.0-SNAPSHOT-dist.zip - in target location
 - ZIP file contains necessary dependencies, README and application JAR file
-- run JAR file using command: 'java -jar jar_name.jar <locale> <country>'
+- run JAR file using command: 'java -jar jar_name.jar'
 - server work under following URL: http://localhost:8080/register
